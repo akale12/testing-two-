@@ -12,6 +12,8 @@ switch (test) {
 }
 
 
+const umsd = 19;
+
 let $number = 5;
 
 $number = 10;
