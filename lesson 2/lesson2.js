@@ -3,6 +3,15 @@
 // a = 15; 
 // console.log(a);
 
+
+const test = 5 +5;
+
+switch (test) {
+    case 10: 
+        console.log('это верно')
+}
+
+
 let $number = 5;
 
 $number = 10;
