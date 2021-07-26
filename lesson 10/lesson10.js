@@ -238,3 +238,9 @@ if (personalMovieDB.count < 10) {
     console.log('Ошибка');
 }
 
+
+const isChecked = true,
+      isClose = false;
+
+console.log(isChecked || isClose);      
+
