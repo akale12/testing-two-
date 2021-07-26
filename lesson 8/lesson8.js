@@ -41,8 +41,6 @@ switch (task) {
 
    default: 
       console.log('В данном примере нету ответа');
-      break      
+      break;  
 }
-
-
 
