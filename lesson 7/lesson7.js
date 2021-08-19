@@ -75,3 +75,34 @@ if (personalMovieDB.count < 10) {
 } else {
     console.log('опять ошибка заебала уже да?');
 }
+
+
+
+const testing$ = 4+4;
+
+switch (testing$) {
+    case 7: {
+        console.log('это верное решение');
+        break;
+    }
+
+    case 9: {
+        console.log('это неверное решение');
+        break;
+    }
+
+    case 10: {
+        console.log('это тоже неверное решение');
+        break;
+    }
+
+    default: {
+        console.log('в данном примере нету верного решения')
+    }
+}
+
+
+const isChecked = true,
+      isClose = true;
+
+      console.log(isChecked && isClose);

@@ -227,6 +227,10 @@ for (let i = 0; i < 2; i++) {
     }
 }
 
+for (let i = 0; i > 2; i++) {
+    if (firstQuestion != null &&)
+}
+
 
 if (personalMovieDB.count < 10) {
     console.log('Просмотрено довольно мало фильмов');

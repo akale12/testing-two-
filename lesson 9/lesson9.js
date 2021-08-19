@@ -109,7 +109,30 @@ const testing = "full test";
 
 console.log(`My first test${testing}`);
 
+const numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?', '');
 
+const personalMovieDB  = {
+    count: numberOfFilms,
+    movies: {},
+    actors: {},
+    genres: [],
+    privat: false 
+};
+
+
+for (let i = 0; i < 2; i++) {
+    const firstQuestion = prompt('Один из последних просмотренных фильмов?', ''),
+    secondQuestion = prompt('На сколько оцените его?', ''); 
+
+
+    if(firstQuestion != null && secondQuestion != null && firstQuestion != '' && secondQuestion != '' && firstQuestion.length < 50) {
+        personalMovieDB.movies[firstQuestion] = secondQuestion;
+            console.log('done');
+    } else {
+        console.log('error');
+    }
+
+}
 
 
 
