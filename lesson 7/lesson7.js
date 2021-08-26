@@ -105,4 +105,30 @@ switch (testing$) {
 const isChecked = true,
       isClose = true;
 
-      console.log(isChecked && isClose);
+ console.log(isChecked && isClose);
+
+
+
+ const rewenie = 6+6;
+
+ switch (rewenie) {
+
+    case 12: {
+        console.log('pravilno');
+        break;
+    }
+
+    case 13: {
+        console.log('ne pravilno');
+        break
+    }
+
+ }
+
+
+
+
+ const isChecked = true,
+        isClose = true;
+
+console.log(isChecked && isClose);
