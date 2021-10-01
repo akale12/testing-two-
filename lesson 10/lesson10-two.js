@@ -35,3 +35,25 @@ switch(primer) {
         break;
     }
 }
+
+
+const primerDva = 20 - 5;
+
+switch (primerDva) {
+    case 15:
+        console.log('its right');
+            break;
+
+    case 10:
+        console.log('its not right');
+            break;
+    case 5:
+        console.log('its not right too');
+            break;
+
+     default: {
+         console.log('nope')
+            break;
+     }       
+                                
+}
