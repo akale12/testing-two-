@@ -57,3 +57,26 @@ switch (primerDva) {
      }       
                                 
 }
+
+
+const primerThree = 3 + 3; 
+
+
+switch(primerThree) {
+    case 6: 
+        console.log('это верно');
+            break;
+
+    case 5: 
+        console.log('это неверно')
+            break;
+
+    case 7:
+        console.log('это тоже неверно');
+            break;
+            
+     default: 
+        console.log('нету правильного решения');
+            break;       
+
+}
