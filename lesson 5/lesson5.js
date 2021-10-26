@@ -1,8 +1,8 @@
 "use strict";
 
-const category = 'toys';
+// const category = 'toys';
 
-console.log(`https://someurl.com/${category}/5/6`);
+// console.log(`https://someurl.com/${category}/5/6`);
 
 // const user = "Alex";
 
@@ -178,3 +178,9 @@ if (personalMovieDB.count < 10) {
 } else {
     console.log('Ошибка у вас');
 }
+
+
+// const haa;
+
+
+// console.log(haa);

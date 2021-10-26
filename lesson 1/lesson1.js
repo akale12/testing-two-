@@ -32,6 +32,9 @@ console.log(isChecked && isClose);
 const testin = 31;
 
 
+const 
+
+
 const numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?', '');
 
 const personalMovieDB  = {

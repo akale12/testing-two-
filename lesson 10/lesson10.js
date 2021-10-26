@@ -248,3 +248,8 @@ const isChecked = true,
 
 console.log(isChecked || isClose);      
 
+
+
+const hello;
+
+console.log(hello);
