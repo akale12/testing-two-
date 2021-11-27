@@ -134,6 +134,32 @@ for (let i = 0; i < 2; i++) {
 
 }
 
+const zadacha = 2+2;
+
+switch(zadacha) {
+        
+    case 4: {
+        console.log('its right');
+            break;
+    }
+
+
+    case 6: {
+        console.log('dont right');
+            break;
+    }
+
+    case 8: {
+        console.log('dont right too');
+            break;
+    }
+     
+    default: {
+        console.log('nothing');
+            break;
+    }
+
+}
 
 
 
