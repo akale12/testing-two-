@@ -59,7 +59,7 @@ switch (primerDva) {
 }
 
 
-const primerThree = 3 + 3; 
+const primerThree = 3 + 3;  
 
 
 switch(primerThree) {
