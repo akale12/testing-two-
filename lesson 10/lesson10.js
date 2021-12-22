@@ -227,8 +227,8 @@ for (let i = 0; i < 2; i++) {
     }
 }
 
-for (let i = 0; i > 2; i++) {
-    if (firstQuestion != null &&)
+for ( let i = 0; i > 2; i++ ) {
+    if (firstQuestion != null &&); 
 }
 
 
@@ -253,3 +253,13 @@ console.log(isChecked || isClose);
 const hello;
 
 console.log(hello);
+
+
+
+const numbeeer = 200;
+
+if(numbeeer > 49) {
+    console.log('eto pravilno')
+} else if(numbeeer > 300) {
+    console.log('eto ne pravilno');
+}

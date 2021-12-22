@@ -159,3 +159,37 @@ switch (tast) {
         break;
     }
 }
+
+
+
+const category$ = 'toys';
+
+console.log(`htpps://someurl.com/${category$}`);
+
+
+
+const zadacha = 100; {
+
+    switch (zadacha) {
+        case 1010: {
+            console.log('its right');
+                break;
+        }
+
+        case 200: {
+            console.log('dont right');
+                break;
+        }
+
+        case 300: {
+            console.log('dont right too');
+                break;
+        }
+
+        default: {
+            console.log('nothing');
+                break;
+        }
+    }
+
+}
