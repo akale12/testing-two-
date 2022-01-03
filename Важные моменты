@@ -61,7 +61,7 @@ decr - это оператор дикримента - т.е. уменьшени�
 Конструкция switch - всегда идёт на строгое сравнение.
 
 break - обязательная синтаксическая конструкция
-
+w
 switch (num) {
     case 49:
         console.log('Неверно');
@@ -97,3 +97,13 @@ continue - оператор континью пропускает тот шаг,
 
 
 ⚞ ᴥ ⚟aw
+
+
+:fireflies::heartred::heartred::fireflies::fireflies::fireflies::heartred::heartred::fireflies:
+:heartred::heartred::heartred::heartred::fireflies::heartred::heartred::heartred::heartred:
+:heartred::heartred::heartred::heartred::heartred::heartred::heartred::heartred::heartred:
+:heartred::heartred::heartred::heartred::heartred::heartred::heartred::heartred::heartred:
+:fireflies::heartred::heartred::heartred::heartred::heartred::heartred::heartred::fireflies:
+:fireflies::fireflies::heartred::heartred::heartred::heartred::heartred::fireflies::fireflies:
+:fireflies::fireflies::fireflies::heartred::heartred::heartred::fireflies::fireflies::fireflies:
+:fireflies::fireflies::fireflies::fireflies::heartred::fireflies::fireflies::fireflies::fireflies:
