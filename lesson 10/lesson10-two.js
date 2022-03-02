@@ -77,6 +77,5 @@ switch(primerThree) {
             
      default: 
         console.log('нету правильного решения');
-            break;       
-
+            break;
 }

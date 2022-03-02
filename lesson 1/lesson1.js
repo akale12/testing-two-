@@ -67,3 +67,34 @@ const isChecked = true,
       isClose = true;
       
 console.log(isChecked && isClose);      
+
+
+const zadacha$ = 5 + 5;
+
+switch (zadacha$) {
+
+     case 10: {
+       console.log('its right');
+        break;
+     }  
+
+     case 11: {
+       console.log('its not right');
+         break;
+    }  
+
+    case 12: {
+       console.log('its not right too');
+         break;
+    }  
+
+    default: {
+       console.log('nothing');
+         break;     
+    }
+};
+
+
+const $lisst = 'toys';
+
+console.log(`htpps//someurl.com/${$lisst}`);
