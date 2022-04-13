@@ -79,3 +79,24 @@ switch(primerThree) {
         console.log('нету правильного решения');
             break;
 }
+
+
+const primerFour = 10 + 10;
+
+switch (primerFour) {
+    case 20:
+         console.log('its right');
+            break;
+            
+    case 30: 
+        console.log('its not right');
+            break;
+            
+    case 40:
+        console.log('its not right too');
+            break;
+     
+    default:
+        console.log('notghing');
+            break;        
+}
