@@ -23,17 +23,14 @@ console.log(typeof(answer));
 console.log(2*4 == '8');
 
 
-const isChecked = true,
-       isClose = false;
+// const isChecked = true,
+//        isClose = false;
  
-console.log(isChecked && isClose);
+// console.log(isChecked && isClose);
 
 
 const testin = 31;
-
-
-const 
-
+ 
 
 const numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?', '');
 
@@ -98,3 +95,8 @@ switch (zadacha$) {
 const $lisst = 'toys';
 
 console.log(`htpps//someurl.com/${$lisst}`);
+
+
+console.log('Xenia i love u so much');
+
+alert('Xenia i love u')

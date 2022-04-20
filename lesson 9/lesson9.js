@@ -163,3 +163,28 @@ switch(zadacha) {
 
 
 
+const xenia = 25; 
+
+    switch(xenia) {
+        
+        case 25: {
+            console.log('да ей 25'); 
+                break;
+        }
+
+        case 26: {
+            console.log ('ей вроде бы не 25');
+                break;
+        }
+
+        case 28: {
+            console.log('ей не 25');
+                break;
+        }
+
+        default: {
+            console.log('а что тут происходит Бляд?');
+                break;
+        }        
+
+    }
